@@ -1,0 +1,23 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+#disconected p {
+	color: red;
+	background-color: rgba(200, 0, 0, 0.4);
+
+}
+
+#connected p {
+	color: green;
+	background-color: rgba(0,200,0,0.4);
+}
+
+.hide {
+	display: none;
+}
